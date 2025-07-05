@@ -1,0 +1,94 @@
+/*body {
+    color: red;
+}
+
+h1, header, p{
+    background-color: yellow;
+}
+
+#mikes-h1 {
+     color: blue;
+}
+
+.fancy-border{
+    border: 3px dashed red;
+}
+
+.blue-text{
+    color: blue;
+}
+    
+
+#myId {
+    background-color: yellow;
+}
+
+.class2 {
+    background-color: red;
+}
+
+ul > li{
+    background-color: purple;
+}
+
+p + h2{
+    background: indigo;
+}
+
+A[href]{
+    background-color: green;
+}
+
+input:checked{
+    box-shadow: 2px 2px 2px;
+    background-color: yellow;
+}*/
+
+/*
+input:focus{   
+    box-shadow: 2px 2px 2px;
+    background-color: yellow;
+}
+
+
+input[type="checkbox"]:checked{    
+    box-shadow: 2px 2px 2px;
+    background-color: yellow;
+}
+
+h2:hover{
+    background-color: yellow;
+}
+
+ul > li:first-child{
+    background-color: red;
+}
+
+
+ul > li:last-child{
+    background-color: red;
+}
+
+
+ul > li:nth-last-child(3){
+    background-color: gold;
+}*/
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border: 2px;
+    align-content: center;
+}
+body{
+    background-color: peachpuff;
+      
+}
+
+.container{
+    border: 5px dashed red;
+    align-items: flex-start;
+}
+
